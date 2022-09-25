@@ -40,6 +40,9 @@ body {
   padding: 0;
   margin: 0;
 }
+button {
+  border: none;
+}
 
 .container {
   width: 1200px;
